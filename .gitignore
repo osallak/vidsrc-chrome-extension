@@ -1,0 +1,10 @@
+# Development files
+.cursor/
+icon_template.html
+create_icons.py
+hello.html
+popup.js
+
+# System files
+.DS_Store
+Thumbs.db

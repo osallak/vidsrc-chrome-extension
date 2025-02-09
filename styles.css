@@ -1,0 +1,29 @@
+/* Keep IMDb's original button styles */
+.ipc-btn--core-baseAlt[data-vidsrc-modified] {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 8px !important;
+}
+
+.ipc-btn--core-baseAlt[data-vidsrc-modified] .ipc-icon {
+    width: 18px !important;
+    height: 18px !important;
+    color: currentColor !important;
+}
+
+.ipc-btn--core-baseAlt[data-vidsrc-modified] .ipc-btn__text {
+    font-family: Roboto, Arial, sans-serif !important;
+    font-size: 14px !important;
+    line-height: 20px !important;
+    font-weight: 500 !important;
+    color: currentColor !important;
+}
+
+/* Remove any old styles */
+.vidsrc-button,
+.vidsrc-button-inline,
+.vidsrc-button-trailer,
+.vidsrc-trailer-container {
+    display: none !important;
+}
