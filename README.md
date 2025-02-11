@@ -23,9 +23,6 @@ A Chrome extension that enhances IMDb with direct streaming capabilities through
 2. Look for the "Watch Now" button (replaces the original "Trailer" button)
 3. Click to watch the content on VidSrc
 
-## Screenshots
-
-[You can add screenshots here showing the extension in action]
 
 ## Technical Details
 
@@ -45,10 +42,6 @@ This extension:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-[Add your chosen license here]
 
 ## Disclaimer
 
